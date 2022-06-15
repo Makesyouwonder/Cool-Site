@@ -1,0 +1,106 @@
+body {
+  background-color: #424B71;
+  margin: 0;
+  text-align: center;
+  font-family: 'Tiro Gurmukhi', serif;
+  font-size: 2em;
+}
+
+div {
+  background-color: #FAF8E9;
+  margin: 0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  height: 0;
+  width: 5%;
+  color: #BBBABA;
+}
+
+h1 {
+  font-family: 'The Nautigal', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Heebo', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Heebo', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-h1 {
+  margin: 50px auto 0 auto;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cosmo-img {
+  width: 20%;
+}
+
+.tekken-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.dumbbell-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.tekken-description {
+  clear: left;
+}
+
+.dumbbell-description {
+  clear: right;
+}
+
+.credit {
+  display: block;
+}
